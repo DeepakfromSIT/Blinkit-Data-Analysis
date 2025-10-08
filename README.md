@@ -15,7 +15,8 @@ This dashboard provides insights into total sales, average sales, product rating
 # Business Question / Key Performance Indicators(KPIs)
 
 <h4>Business Questions</h4>
-* What is the total sales value and how is it distributed across outlet types and locations?<br></br>
+* What is the total sales value and how is it distributed across outlet types and locations?
+
 * Which outlet size (Small, Medium, Large) generates the highest sales?<br></br>
 * What is the average rating across different item categories and fat content types?<br></br>
 * Which product types contribute the most to total revenue?<br></br>
