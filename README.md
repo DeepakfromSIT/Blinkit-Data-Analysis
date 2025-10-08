@@ -17,11 +17,15 @@ This dashboard provides insights into total sales, average sales, product rating
 <h4>Business Questions</h4>
 * What is the total sales value and how is it distributed across outlet types and locations?
 
-* Which outlet size (Small, Medium, Large) generates the highest sales?<br></br>
-* What is the average rating across different item categories and fat content types?<br></br>
-* Which product types contribute the most to total revenue?<br></br>
-* How does outlet establishment year impact total sales performance?<br></br>
-* Which Tier (1, 2, or 3) cities have the highest contribution to total sales?<br></br>
+* Which outlet size (Small, Medium, Large) generates the highest sales?
+  
+* What is the average rating across different item categories and fat content types?
+  
+* Which product types contribute the most to total revenue?
+  
+* How does outlet establishment year impact total sales performance?
+  
+* Which Tier (1, 2, or 3) cities have the highest contribution to total sales?
 
 <h4>KPIs</h4>
 
