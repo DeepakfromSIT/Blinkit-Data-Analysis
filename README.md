@@ -23,11 +23,15 @@ This dashboard provides insights into total sales, average sales, product rating
 * Which Tier (1, 2, or 3) cities have the highest contribution to total sales?
 
 <h4>KPIs</h4>:
+
 * Total Sales: $1.20M
 * Average Sales: $141
 * Total Items: 8,523
 * Average Rating: 3.9
 * Top Performing Outlet Size: Medium ($507.9K)
+
+  <img width="1308" height="774" alt="Screenshot 2025-10-08 070906" src="https://github.com/user-attachments/assets/059ba4a6-a4a5-4b88-a4c6-3c8fb82af984" />
+
 
 # Process
 
@@ -53,6 +57,8 @@ This dashboard provides insights into total sales, average sales, product rating
 * Donut Chart: Outlet size contribution.
 * Bar Chart: Tier-wise and item-type sales distribution.
 * Filters: For outlet location, size, and item type.
+
+Dashboard Interation: <a href="https://github.com/DeepakfromSIT/Blinkit-Data-Analysis/blob/main/Blinkit.pbix">View Dashboard</a>
 
 # Final Conclusion
 
