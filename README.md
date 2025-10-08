@@ -29,10 +29,10 @@ This dashboard provides insights into total sales, average sales, product rating
 * Total Items: 8,523
 * Average Rating: 3.9
 * Top Performing Outlet Size: Medium ($507.9K)
-
+/n
   
 
-<img width="1308" height="774" alt="Screenshot 2025-10-08 070906" src="https://github.com/user-attachments/assets/059ba4a6-a4a5-4b88-a4c6-3c8fb82af984" />
+* <img width="1308" height="774" alt="Screenshot 2025-10-08 070906" src="https://github.com/user-attachments/assets/059ba4a6-a4a5-4b88-a4c6-3c8fb82af984" />
 
 
 # Process
