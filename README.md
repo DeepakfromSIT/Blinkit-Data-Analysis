@@ -58,7 +58,7 @@ This dashboard provides insights into total sales, average sales, product rating
 * Line Chart: Outlet establishment vs. total sales trend.
 * Donut Chart: Outlet size contribution.
 * Bar Chart: Tier-wise and item-type sales distribution.
-* Filters: For outlet location, size, and item type.
+* Filters: For outlet location, size, and item type.<br></br>
 
 Dashboard Interation: <a href="https://github.com/DeepakfromSIT/Blinkit-Data-Analysis/blob/main/Blinkit.pbix">View Dashboard</a>
 
