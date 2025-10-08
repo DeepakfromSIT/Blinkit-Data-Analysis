@@ -28,8 +28,7 @@ This dashboard provides insights into total sales, average sales, product rating
 * Average Sales: $141
 * Total Items: 8,523
 * Average Rating: 3.9
-* Top Performing Outlet Size: Medium ($507.9K)
-/n
+* Top Performing Outlet Size: Medium ($507.9K)<br> </br>
   
 
 * <img width="1308" height="774" alt="Screenshot 2025-10-08 070906" src="https://github.com/user-attachments/assets/059ba4a6-a4a5-4b88-a4c6-3c8fb82af984" />
@@ -60,7 +59,7 @@ This dashboard provides insights into total sales, average sales, product rating
 * Bar Chart: Tier-wise and item-type sales distribution.
 * Filters: For outlet location, size, and item type.<br></br>
 
-Dashboard Interation: <a href="https://github.com/DeepakfromSIT/Blinkit-Data-Analysis/blob/main/Blinkit.pbix">View Dashboard</a>
+<h3>Dashboard Interation</h3>: <a href="https://github.com/DeepakfromSIT/Blinkit-Data-Analysis/blob/main/Blinkit.pbix">View Dashboard</a>
 
 # Final Conclusion
 
