@@ -14,7 +14,7 @@ This dashboard provides insights into total sales, average sales, product rating
 
 # Business Question / Key Performance Indicators(KPIs)
 
-<h4>Business Questions</h4>:
+<h4>Business Questions</h4>
 * What is the total sales value and how is it distributed across outlet types and locations?
 * Which outlet size (Small, Medium, Large) generates the highest sales?
 * What is the average rating across different item categories and fat content types?
@@ -22,7 +22,7 @@ This dashboard provides insights into total sales, average sales, product rating
 * How does outlet establishment year impact total sales performance?
 * Which Tier (1, 2, or 3) cities have the highest contribution to total sales?
 
-<h4>KPIs</h4>:
+<h4>KPIs</h4>
 
 * Total Sales: $1.20M
 * Average Sales: $141
@@ -30,29 +30,31 @@ This dashboard provides insights into total sales, average sales, product rating
 * Average Rating: 3.9
 * Top Performing Outlet Size: Medium ($507.9K)
 
-  <img width="1308" height="774" alt="Screenshot 2025-10-08 070906" src="https://github.com/user-attachments/assets/059ba4a6-a4a5-4b88-a4c6-3c8fb82af984" />
+  
+
+<img width="1308" height="774" alt="Screenshot 2025-10-08 070906" src="https://github.com/user-attachments/assets/059ba4a6-a4a5-4b88-a4c6-3c8fb82af984" />
 
 
 # Process
 
-<h4>Data Collection</h4>:
+<h4>Data Collection</h4>
 * Collected sales and outlet data from Blinkit’s internal database or CSV file.
 * Data included fields such as outlet size, type, location, total sales, item count, and ratings.
 
-<h4>Data Cleaning & Transformation</h4>:
+<h4>Data Cleaning & Transformation</h4>
 * Removed duplicate and null records.
 * Standardized data types (numeric, categorical, date).
 * Created calculated fields like Average Sales, Average Rating, and Total Items per Outlet.
 
-<h4>Data Analysis</h4>:
+<h4>Data Analysis</h4>
 * Aggregated sales and ratings by outlet type, size, and location.
 * Analyzed fat content performance (Low Fat vs Regular).
 * Compared performance across different item categories.
 
-<h4> Dashboard Development (in Power BI/ Excel)</h4>:
+<h4> Dashboard Development (in Power BI/ Excel)</h4>
 * Designed KPIs and summary cards (Total Sales, Avg Sales, etc.).
 
-<h4>Created interactive visuals</h4>:
+<h4>Created interactive visuals</h4>
 * Line Chart: Outlet establishment vs. total sales trend.
 * Donut Chart: Outlet size contribution.
 * Bar Chart: Tier-wise and item-type sales distribution.
