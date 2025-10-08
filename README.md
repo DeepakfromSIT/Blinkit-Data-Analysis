@@ -65,11 +65,11 @@ This dashboard provides insights into total sales, average sales, product rating
 
 # Final Conclusion
 
-* <h5>Medium-sized outlets</h5>generate the highest revenue ($507.9K), indicating a balance between operational scale and efficiency.
-* <h5>Tier 3 locations</h5>contribute the most to total sales ($472.13K), suggesting strong customer demand in developing regions.
-* <h5>Supermarket Type 1 outlets</h5>are the top-performing category with sales of $787.55K, demonstrating strong customer preference and operational success.
-* <h5>The average rating of 3.9</h5>indicates satisfactory product and service quality but leaves room for improvement in customer experience.
-* <h5>Low Fat and Regular</h5>fat content products perform equally well, reflecting diverse customer preferences.
+* <h5>Medium-sized outlets</h5>Generate the highest revenue ($507.9K), indicating a balance between operational scale and efficiency.
+* <h5>Tier 3 locations</h5>Contribute the most to total sales ($472.13K), suggesting strong customer demand in developing regions.
+* <h5>Supermarket Type 1 outlets</h5>Are the top-performing category with sales of $787.55K, demonstrating strong customer preference and operational success.
+* <h5>The average rating of 3.9</h5>Indicates satisfactory product and service quality but leaves room for improvement in customer experience.
+* <h5>Low Fat and Regular</h5>Fat content products perform equally well, reflecting diverse customer preferences.<br></br>
 * Overall, the business shows stable performance with opportunities to enhance sales in smaller outlets and Tier 1 cities through better promotions and customer engagement.
 
 
