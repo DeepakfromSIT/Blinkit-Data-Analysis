@@ -28,7 +28,9 @@ This dashboard provides insights into total sales, average sales, product rating
 * Average Sales: $141
 * Total Items: 8,523
 * Average Rating: 3.9
-* Top Performing Outlet Size: Medium ($507.9K)<br> </br>
+* Top Performing Outlet Size: Medium ($507.9K)
+* Top Performing Location Tier: Tier 3 ($472.13K)
+* Best Performing Outlet Type: Supermarket Type 1 ($787.55K) <br> </br>
   
 
 * <img width="1308" height="774" alt="Screenshot 2025-10-08 070906" src="https://github.com/user-attachments/assets/059ba4a6-a4a5-4b88-a4c6-3c8fb82af984" />
@@ -70,6 +72,4 @@ This dashboard provides insights into total sales, average sales, product rating
 * <h5>Low Fat and Regular</h5> fat content products perform equally well, reflecting diverse customer preferences.
 * Overall, the business shows stable performance with opportunities to enhance sales in smaller outlets and Tier 1 cities through better promotions and customer engagement.
 
-Top Performing Location Tier: Tier 3 ($472.13K)
 
-Best Performing Outlet Type: Supermarket Type 1 ($787.55K)
